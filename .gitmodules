@@ -1,0 +1,93 @@
+[submodule "packages/array"]
+	path = packages/array
+	url = https://github.com/axiona/array
+[submodule "packages/boolean"]
+	path = packages/boolean
+	url = https://github.com/axiona/boolean
+[submodule "packages/class"]
+	path = packages/class
+	url = https://github.com/axiona/class
+[submodule "packages/date"]
+	path = packages/date
+	url = https://github.com/axiona/date
+[submodule "packages/enum"]
+	path = packages/enum
+	url = https://github.com/axiona/enum
+[submodule "packages/file-storage"]
+	path = packages/file-storage
+	url = https://github.com/axiona/file-storage
+[submodule "packages/filesystem"]
+	path = packages/filesystem
+	url = https://github.com/axiona/filesystem
+[submodule "packages/function"]
+	path = packages/function
+	url = https://github.com/axiona/function
+[submodule "packages/http"]
+	path = packages/http
+	url = https://github.com/axiona/http
+[submodule "packages/http-server"]
+	path = packages/http-server
+	url = https://github.com/axiona/http-server
+[submodule "packages/iterable"]
+	path = packages/iterable
+	url = https://github.com/axiona/iterable
+[submodule "packages/key-value-storage"]
+	path = packages/key-value-storage
+	url = https://github.com/axiona/key-value-storage
+[submodule "packages/map"]
+	path = packages/map
+	url = https://github.com/axiona/map
+[submodule "packages/message"]
+	path = packages/message
+	url = https://github.com/axiona/message
+[submodule "packages/monorepo"]
+	path = packages/monorepo
+	url = https://github.com/axiona/monorepo
+[submodule "packages/null"]
+	path = packages/null
+	url = https://github.com/axiona/null
+[submodule "packages/number"]
+	path = packages/number
+	url = https://github.com/axiona/number
+[submodule "packages/object"]
+	path = packages/object
+	url = https://github.com/axiona/object
+[submodule "packages/promise"]
+	path = packages/promise
+	url = https://github.com/axiona/promise
+[submodule "packages/prompt"]
+	path = packages/prompt
+	url = https://github.com/axiona/prompt
+[submodule "packages/proxy"]
+	path = packages/proxy
+	url = https://github.com/axiona/proxy
+[submodule "packages/set"]
+	path = packages/set
+	url = https://github.com/axiona/set
+[submodule "packages/string"]
+	path = packages/string
+	url = https://github.com/axiona/string
+[submodule "packages/syslog"]
+	path = packages/syslog
+	url = https://github.com/axiona/syslog
+[submodule "packages/type"]
+	path = packages/type
+	url = https://github.com/axiona/type
+[submodule "packages/typeorm"]
+	path = packages/typeorm
+	url = https://github.com/axiona/typeorm
+[submodule "packages/undefined"]
+	path = packages/undefined
+	url = https://github.com/axiona/undefined
+[submodule "packages/uri"]
+	path = packages/uri
+	url = https://github.com/axiona/uri
+[submodule "packages/validatable"]
+	path = packages/validatable
+	url = https://github.com/axiona/validatable
+[submodule "packages/validator"]
+	path = packages/validator
+	url = https://github.com/axiona/validator
+[submodule "packages/value"]
+	path = packages/value
+	url = https://github.com/axiona/value
