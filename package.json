@@ -1,0 +1,31 @@
+{
+  "name": "@axiona/all",
+  "version": "0.0.1",
+  "description": "all standalone mono repo",
+  "devDependencies": {
+    "lerna": "^6.4.1",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "installs": "lerna exec -- npm install",
+    "spec-run": "lerna run spec-run --stream --no-bail",
+    "compile": "lerna run compile --stream --parallel",
+    "compile-watch": "lerna run compile-watch --stream --parallel",
+    "spec-compile": "lerna run spec-compile",
+    "spec-compile-watch": "lerna run spec-compile-watch --stream --parallel",
+    "spec-compile-watch-scope": "lerna run spec-compile-watch --stream --scope @axiona/score"
+  },
+  "publishConfig": {
+    "directory": "dist"
+  },
+  "author": {
+    "name": "Andika Candra"
+  },
+  "private": true,
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/axiona/all",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axiona/all"
+  }
+}
